@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any exciting and challenging projects on data science and machine learning domains.**
 
-- 💬 Ask me about **anything on data science domain, I'll love share my thoughts.**
+- 💬 Ask me about **anything on data science domain, I'll love to share my thoughts.**
 
 - 📫 How to reach me **deepduttasdm@gmail.com**
 
