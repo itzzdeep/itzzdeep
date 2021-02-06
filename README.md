@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some different data science projects.**
 
-- 🌱 I’m currently learning **Quantum Machine Learning and Neurosymbolic AI**
+- 🌱 I’m currently learning **Quantum Machine Learning**
 
 - 👯 I’m looking to collaborate on **any exciting and challenging projects on data science and machine learning domains.**
 
