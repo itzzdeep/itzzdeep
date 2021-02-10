@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
-- 💬 Read my article on medium **https://itzzdeep.medium.com/**
+- 💬 Read my article on medium **itzzdeep.medium.com/**
 
 - 👯 I’m looking to collaborate on **any exciting and challenging projects on data science and machine learning domains.**
 
 - 💬 Ask me about **anything on data science domain, I'll love to share my thoughts.**
 
-- 📫 How to reach me **deepduttasdm@gmail.com**, **https://www.linkedin.com/in/deep-dutta-68a93a1b7/**
+- 📫 How to reach me **deepduttasdm@gmail.com**, **www.linkedin.com/in/deep-dutta-68a93a1b7/**
 
 
 
