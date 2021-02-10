@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quantum Machine Learning**
 
-- 💬 Read my article on medium **/itzzdeep.medium.com/**
+- 💬 Read my article on medium **https://itzzdeep.medium.com/**
 
 - 👯 I’m looking to collaborate on **any exciting and challenging projects on data science and machine learning domains.**
 
