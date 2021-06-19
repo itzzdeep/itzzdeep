@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything on data science domain, I'll love to share my thoughts.**
 
-- 📫 How to reach me **deepduttasm@gmail.com**, **[LinkedIn](https://linkedin.com/in/deep-dutta-68a93a1b7/)**
+- 📫 How to reach me **[Gmail](deepduttasdm@gmail.com)**, **[LinkedIn](https://linkedin.com/in/deep-dutta-68a93a1b7/)**
 
 
 
